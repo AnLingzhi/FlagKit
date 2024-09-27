@@ -1,0 +1,1027 @@
+{
+    "name": "国旗图标集",
+    "description": "Desing By AnLingzhi",
+    "time": "2024-09-27",
+    "icons": [
+        {
+            "name": "AD | Andorra",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AD@2x.png"
+        },
+        {
+            "name": "AE | United Arab Emirates",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AE@2x.png"
+        },
+        {
+            "name": "AF | Afghanistan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AF@2x.png"
+        },
+        {
+            "name": "AG | Antigua & Barbuda",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AG@2x.png"
+        },
+        {
+            "name": "AI | Anguilla",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AI@2x.png"
+        },
+        {
+            "name": "AL | Albania",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AL@2x.png"
+        },
+        {
+            "name": "AM | Armenia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AM@2x.png"
+        },
+        {
+            "name": "AO | Angola",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AO@2x.png"
+        },
+        {
+            "name": "AR | Argentina",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AR@2x.png"
+        },
+        {
+            "name": "AS | American Samoa",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AS@2x.png"
+        },
+        {
+            "name": "AT | Austria",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AT@2x.png"
+        },
+        {
+            "name": "AU | Australia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AU@2x.png"
+        },
+        {
+            "name": "AW | Aruba",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AW@2x.png"
+        },
+        {
+            "name": "AX | Åland Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AX@2x.png"
+        },
+        {
+            "name": "AZ | Azerbaijan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/AZ@2x.png"
+        },
+        {
+            "name": "BA | Bosnia & Herzegovina",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BA@2x.png"
+        },
+        {
+            "name": "BB | Barbados",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BB@2x.png"
+        },
+        {
+            "name": "BD | Bangladesh",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BD@2x.png"
+        },
+        {
+            "name": "BE | Belgium",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BE@2x.png"
+        },
+        {
+            "name": "BF | Burkina Faso",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BF@2x.png"
+        },
+        {
+            "name": "BG | Bulgaria",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BG@2x.png"
+        },
+        {
+            "name": "BH | Bahrain",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BH@2x.png"
+        },
+        {
+            "name": "BI | Burundi",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BI@2x.png"
+        },
+        {
+            "name": "BJ | Benin",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BJ@2x.png"
+        },
+        {
+            "name": "BL | St. Barthélemy",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BL@2x.png"
+        },
+        {
+            "name": "BM | Bermuda",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BM@2x.png"
+        },
+        {
+            "name": "BN | Brunei",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BN@2x.png"
+        },
+        {
+            "name": "BO | Bolivia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BO@2x.png"
+        },
+        {
+            "name": "BR | Brazil",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BR@2x.png"
+        },
+        {
+            "name": "BS | Bahamas",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BS@2x.png"
+        },
+        {
+            "name": "BT | Bhutan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BT@2x.png"
+        },
+        {
+            "name": "BV | Bouvet Island",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BV@2x.png"
+        },
+        {
+            "name": "BW | Botswana",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BW@2x.png"
+        },
+        {
+            "name": "BY | Belarus",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BY@2x.png"
+        },
+        {
+            "name": "BZ | Belize",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/BZ@2x.png"
+        },
+        {
+            "name": "CA | Canada",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CA@2x.png"
+        },
+        {
+            "name": "CC | Cocos (Keeling) Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CC@2x.png"
+        },
+        {
+            "name": "CD | Congo - Kinshasa",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CD@2x.png"
+        },
+        {
+            "name": "CF | Central African Republic",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CF@2x.png"
+        },
+        {
+            "name": "CG | Congo - Brazzaville",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CG@2x.png"
+        },
+        {
+            "name": "CH | Switzerland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CH@2x.png"
+        },
+        {
+            "name": "CI | Côte d’Ivoire",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CI@2x.png"
+        },
+        {
+            "name": "CK | Cook Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CK@2x.png"
+        },
+        {
+            "name": "CL | Chile",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CL@2x.png"
+        },
+        {
+            "name": "CM | Cameroon",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CM@2x.png"
+        },
+        {
+            "name": "CN | China",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CN@2x.png"
+        },
+        {
+            "name": "CO | Colombia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CO@2x.png"
+        },
+        {
+            "name": "CR | Costa Rica",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CR@2x.png"
+        },
+        {
+            "name": "CU | Cuba",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CU@2x.png"
+        },
+        {
+            "name": "CV | Cape Verde",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CV@2x.png"
+        },
+        {
+            "name": "CW | Curaçao",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CW@2x.png"
+        },
+        {
+            "name": "CX | Christmas Island",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CX@2x.png"
+        },
+        {
+            "name": "CY | Cyprus",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CY@2x.png"
+        },
+        {
+            "name": "CZ | Czech Republic",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/CZ@2x.png"
+        },
+        {
+            "name": "DE | Germany",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DE@2x.png"
+        },
+        {
+            "name": "DJ | Djibouti",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DJ@2x.png"
+        },
+        {
+            "name": "DK | Denmark",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DK@2x.png"
+        },
+        {
+            "name": "DM | Dominica",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DM@2x.png"
+        },
+        {
+            "name": "DO | Dominican Republic",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DO@2x.png"
+        },
+        {
+            "name": "DZ | Algeria",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/DZ@2x.png"
+        },
+        {
+            "name": "EC | Ecuador",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/EC@2x.png"
+        },
+        {
+            "name": "EE | Estonia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/EE@2x.png"
+        },
+        {
+            "name": "EG | Egypt",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/EG@2x.png"
+        },
+        {
+            "name": "ER | Eritrea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ER@2x.png"
+        },
+        {
+            "name": "ES | Spain",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ES@2x.png"
+        },
+        {
+            "name": "ET | Ethiopia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ET@2x.png"
+        },
+        {
+            "name": "EU | European Union",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/EU@2x.png"
+        },
+        {
+            "name": "FI | Finland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FI@2x.png"
+        },
+        {
+            "name": "FJ | Fiji",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FJ@2x.png"
+        },
+        {
+            "name": "FK | Falkland Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FK@2x.png"
+        },
+        {
+            "name": "FM | Micronesia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FM@2x.png"
+        },
+        {
+            "name": "FO | Faroe Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FO@2x.png"
+        },
+        {
+            "name": "FR | France",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/FR@2x.png"
+        },
+        {
+            "name": "GA | Gabon",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GA@2x.png"
+        },
+        {
+            "name": "GB | United Kingdom",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB@2x.png"
+        },
+        {
+            "name": "GB-ENG | England",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB-ENG@2x.png"
+        },
+        {
+            "name": "GB-NIR | Northern Ireland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB-NIR@2x.png"
+        },
+        {
+            "name": "GB-SCT | Scotland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB-SCT@2x.png"
+        },
+        {
+            "name": "GB-WLS | Wales",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB-WLS@2x.png"
+        },
+        {
+            "name": "GB-ZET | Shetland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GB-ZET@2x.png"
+        },
+        {
+            "name": "GD | Grenada",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GD@2x.png"
+        },
+        {
+            "name": "GE | Georgia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GE@2x.png"
+        },
+        {
+            "name": "GF | French Guiana",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GF@2x.png"
+        },
+        {
+            "name": "GG | Guernsey",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GG@2x.png"
+        },
+        {
+            "name": "GH | Ghana",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GH@2x.png"
+        },
+        {
+            "name": "GI | Gibraltar",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GI@2x.png"
+        },
+        {
+            "name": "GL | Greenland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GL@2x.png"
+        },
+        {
+            "name": "GM | Gambia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GM@2x.png"
+        },
+        {
+            "name": "GN | Guinea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GN@2x.png"
+        },
+        {
+            "name": "GP | Guadeloupe",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GP@2x.png"
+        },
+        {
+            "name": "GQ | Equatorial Guinea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GQ@2x.png"
+        },
+        {
+            "name": "GR | Greece",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GR@2x.png"
+        },
+        {
+            "name": "GS | So. Georgia & So. Sandwich Is",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GS@2x.png"
+        },
+        {
+            "name": "GT | Guatemala",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GT@2x.png"
+        },
+        {
+            "name": "GU | Guam",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GU@2x.png"
+        },
+        {
+            "name": "GW | Guinea-Bissau",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GW@2x.png"
+        },
+        {
+            "name": "GY | Guyana",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/GY@2x.png"
+        },
+        {
+            "name": "HK | Hong Kong (China)",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HK@2x.png"
+        },
+        {
+            "name": "HM | Heard & McDonald Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HM@2x.png"
+        },
+        {
+            "name": "HN | Honduras",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HN@2x.png"
+        },
+        {
+            "name": "HR | Croatia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HR@2x.png"
+        },
+        {
+            "name": "HT | Haiti",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HT@2x.png"
+        },
+        {
+            "name": "HU | Hungary",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/HU@2x.png"
+        },
+        {
+            "name": "ID | Indonesia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ID@2x.png"
+        },
+        {
+            "name": "IE | Ireland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IE@2x.png"
+        },
+        {
+            "name": "IL | Israel",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IL@2x.png"
+        },
+        {
+            "name": "IM | Isle of Man",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IM@2x.png"
+        },
+        {
+            "name": "IN | India",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IN@2x.png"
+        },
+        {
+            "name": "IO | British Indian Ocean Territor",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IO@2x.png"
+        },
+        {
+            "name": "IQ | Iraq",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IQ@2x.png"
+        },
+        {
+            "name": "IR | Iran",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IR@2x.png"
+        },
+        {
+            "name": "IS | Iceland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IS@2x.png"
+        },
+        {
+            "name": "IT | Italy",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/IT@2x.png"
+        },
+        {
+            "name": "JE | Jersey",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/JE@2x.png"
+        },
+        {
+            "name": "JM | Jamaica",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/JM@2x.png"
+        },
+        {
+            "name": "JO | Jordan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/JO@2x.png"
+        },
+        {
+            "name": "JP | Japan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/JP@2x.png"
+        },
+        {
+            "name": "KE | Kenya",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KE@2x.png"
+        },
+        {
+            "name": "KG | Kyrgyzstan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KG@2x.png"
+        },
+        {
+            "name": "KH | Cambodia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KH@2x.png"
+        },
+        {
+            "name": "KI | Kiribati",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KI@2x.png"
+        },
+        {
+            "name": "KM | Comoros",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KM@2x.png"
+        },
+        {
+            "name": "KN | St. Kitts & Nevis",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KN@2x.png"
+        },
+        {
+            "name": "KP | North Korea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KP@2x.png"
+        },
+        {
+            "name": "KR | South Korea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KR@2x.png"
+        },
+        {
+            "name": "KW | Kuwait",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KW@2x.png"
+        },
+        {
+            "name": "KY | Cayman Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KY@2x.png"
+        },
+        {
+            "name": "KZ | Kazakhstan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/KZ@2x.png"
+        },
+        {
+            "name": "LA | Laos",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LA@2x.png"
+        },
+        {
+            "name": "LB | Lebanon",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LB@2x.png"
+        },
+        {
+            "name": "LC | St. Lucia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LC@2x.png"
+        },
+        {
+            "name": "LGBT | Pride",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LGBT@2x.png"
+        },
+        {
+            "name": "LI | Liechtenstein",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LI@2x.png"
+        },
+        {
+            "name": "LK | Sri Lanka",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LK@2x.png"
+        },
+        {
+            "name": "LR | Liberia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LR@2x.png"
+        },
+        {
+            "name": "LS | Lesotho",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LS@2x.png"
+        },
+        {
+            "name": "LT | Lithuania",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LT@2x.png"
+        },
+        {
+            "name": "LU | Luxembourg",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LU@2x.png"
+        },
+        {
+            "name": "LV | Latvia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LV@2x.png"
+        },
+        {
+            "name": "LY | Libya",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/LY@2x.png"
+        },
+        {
+            "name": "MA | Morocco",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MA@2x.png"
+        },
+        {
+            "name": "MC | Monaco",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MC@2x.png"
+        },
+        {
+            "name": "MD | Moldova",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MD@2x.png"
+        },
+        {
+            "name": "ME | Montenegro",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ME@2x.png"
+        },
+        {
+            "name": "MF | St. Martin",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MF@2x.png"
+        },
+        {
+            "name": "MG | Madagascar",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MG@2x.png"
+        },
+        {
+            "name": "MH | Marshall Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MH@2x.png"
+        },
+        {
+            "name": "MK | Macedonia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MK@2x.png"
+        },
+        {
+            "name": "ML | Mali",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ML@2x.png"
+        },
+        {
+            "name": "MM | Myanmar (Burma)",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MM@2x.png"
+        },
+        {
+            "name": "MN | Mongolia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MN@2x.png"
+        },
+        {
+            "name": "MO | Macau (China)",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MO@2x.png"
+        },
+        {
+            "name": "MP | Northern Mariana Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MP@2x.png"
+        },
+        {
+            "name": "MQ | Martinique",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MQ@2x.png"
+        },
+        {
+            "name": "MR | Mauritania",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MR@2x.png"
+        },
+        {
+            "name": "MS | Montserrat",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MS@2x.png"
+        },
+        {
+            "name": "MT | Malta",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MT@2x.png"
+        },
+        {
+            "name": "MU | Mauritius",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MU@2x.png"
+        },
+        {
+            "name": "MV | Maldives",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MV@2x.png"
+        },
+        {
+            "name": "MW | Malawi",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MW@2x.png"
+        },
+        {
+            "name": "MX | Mexico",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MX@2x.png"
+        },
+        {
+            "name": "MY | Malaysia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MY@2x.png"
+        },
+        {
+            "name": "MZ | Mozambique",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/MZ@2x.png"
+        },
+        {
+            "name": "NA | Namibia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NA@2x.png"
+        },
+        {
+            "name": "NC | New Caledonia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NC@2x.png"
+        },
+        {
+            "name": "NE | Niger",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NE@2x.png"
+        },
+        {
+            "name": "NF | Norfolk Island",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NF@2x.png"
+        },
+        {
+            "name": "NG | Nigeria",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NG@2x.png"
+        },
+        {
+            "name": "NI | Nicaragua",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NI@2x.png"
+        },
+        {
+            "name": "NL | Netherlands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NL@2x.png"
+        },
+        {
+            "name": "NO | Norway",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NO@2x.png"
+        },
+        {
+            "name": "NP | Nepal",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NP@2x.png"
+        },
+        {
+            "name": "NR | Nauru",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NR@2x.png"
+        },
+        {
+            "name": "NU | Niue",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NU@2x.png"
+        },
+        {
+            "name": "NZ | New Zealand",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/NZ@2x.png"
+        },
+        {
+            "name": "OM | Oman",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/OM@2x.png"
+        },
+        {
+            "name": "PA | Panama",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PA@2x.png"
+        },
+        {
+            "name": "PE | Peru",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PE@2x.png"
+        },
+        {
+            "name": "PF | French Polynesia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PF@2x.png"
+        },
+        {
+            "name": "PG | Papua New Guinea",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PG@2x.png"
+        },
+        {
+            "name": "PH | Philippines",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PH@2x.png"
+        },
+        {
+            "name": "PK | Pakistan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PK@2x.png"
+        },
+        {
+            "name": "PL | Poland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PL@2x.png"
+        },
+        {
+            "name": "PM | St. Pierre & Miquelon",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PM@2x.png"
+        },
+        {
+            "name": "PN | Pitcairn Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PN@2x.png"
+        },
+        {
+            "name": "PR | Puerto Rico",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PR@2x.png"
+        },
+        {
+            "name": "PS | Palestinian Territories",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PS@2x.png"
+        },
+        {
+            "name": "PT | Portugal",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PT@2x.png"
+        },
+        {
+            "name": "PW | Palau",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PW@2x.png"
+        },
+        {
+            "name": "PY | Paraguay",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/PY@2x.png"
+        },
+        {
+            "name": "QA | Qatar",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/QA@2x.png"
+        },
+        {
+            "name": "RE | Réunion",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/RE@2x.png"
+        },
+        {
+            "name": "RO | Romania",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/RO@2x.png"
+        },
+        {
+            "name": "RS | Serbia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/RS@2x.png"
+        },
+        {
+            "name": "RU | Russia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/RU@2x.png"
+        },
+        {
+            "name": "RW | Rwanda",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/RW@2x.png"
+        },
+        {
+            "name": "SA | Saudi Arabia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SA@2x.png"
+        },
+        {
+            "name": "SB | Solomon Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SB@2x.png"
+        },
+        {
+            "name": "SC | Seychelles",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SC@2x.png"
+        },
+        {
+            "name": "SD | Sudan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SD@2x.png"
+        },
+        {
+            "name": "SE | Sweden",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SE@2x.png"
+        },
+        {
+            "name": "SG | Singapore",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SG@2x.png"
+        },
+        {
+            "name": "SH | St. Helena",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SH@2x.png"
+        },
+        {
+            "name": "SI | Slovenia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SI@2x.png"
+        },
+        {
+            "name": "SJ | Svalbard & Jan Mayen",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SJ@2x.png"
+        },
+        {
+            "name": "SK | Slovakia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SK@2x.png"
+        },
+        {
+            "name": "SL | Sierra Leone",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SL@2x.png"
+        },
+        {
+            "name": "SM | San Marino",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SM@2x.png"
+        },
+        {
+            "name": "SN | Senegal",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SN@2x.png"
+        },
+        {
+            "name": "SO | Somalia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SO@2x.png"
+        },
+        {
+            "name": "SR | Suriname",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SR@2x.png"
+        },
+        {
+            "name": "SS | South Sudan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SS@2x.png"
+        },
+        {
+            "name": "ST | São Tomé & Príncipe",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ST@2x.png"
+        },
+        {
+            "name": "SV | El Salvador",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SV@2x.png"
+        },
+        {
+            "name": "SX | Sint Maarten",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SX@2x.png"
+        },
+        {
+            "name": "SY | Syria",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SY@2x.png"
+        },
+        {
+            "name": "SZ | Swaziland",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/SZ@2x.png"
+        },
+        {
+            "name": "TC | Turks & Caicos Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TC@2x.png"
+        },
+        {
+            "name": "TD | Chad",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TD@2x.png"
+        },
+        {
+            "name": "TF | French Southern Territories",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TF@2x.png"
+        },
+        {
+            "name": "TG | Togo",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TG@2x.png"
+        },
+        {
+            "name": "TH | Thailand",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TH@2x.png"
+        },
+        {
+            "name": "TJ | Tajikistan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TJ@2x.png"
+        },
+        {
+            "name": "TK | Tokelau",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TK@2x.png"
+        },
+        {
+            "name": "TL | Timor-Leste",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TL@2x.png"
+        },
+        {
+            "name": "TM | Turkmenistan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TM@2x.png"
+        },
+        {
+            "name": "TN | Tunisia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TN@2x.png"
+        },
+        {
+            "name": "TO | Tonga",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TO@2x.png"
+        },
+        {
+            "name": "TR | Turkey",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TR@2x.png"
+        },
+        {
+            "name": "TT | Trinidad & Tobago",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TT@2x.png"
+        },
+        {
+            "name": "TV | Tuvalu",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TV@2x.png"
+        },
+        {
+            "name": "TW | Taiwan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TW@2x.png"
+        },
+        {
+            "name": "TZ | Tanzania",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/TZ@2x.png"
+        },
+        {
+            "name": "UA | Ukraine",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/UA@2x.png"
+        },
+        {
+            "name": "UG | Uganda",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/UG@2x.png"
+        },
+        {
+            "name": "UM | U.S. Outlying Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/UM@2x.png"
+        },
+        {
+            "name": "US | United States",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/US@2x.png"
+        },
+        {
+            "name": "US-CA | California",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/US-CA@2x.png"
+        },
+        {
+            "name": "UY | Uruguay",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/UY@2x.png"
+        },
+        {
+            "name": "UZ | Uzbekistan",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/UZ@2x.png"
+        },
+        {
+            "name": "VA | Vatican City",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VA@2x.png"
+        },
+        {
+            "name": "VC | St. Vincent & Grenadines",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VC@2x.png"
+        },
+        {
+            "name": "VE | Venezuela",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VE@2x.png"
+        },
+        {
+            "name": "VG | British Virgin Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VG@2x.png"
+        },
+        {
+            "name": "VI | U.S. Virgin Islands",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VI@2x.png"
+        },
+        {
+            "name": "VN | Vietnam",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VN@2x.png"
+        },
+        {
+            "name": "VU | Vanuatu",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/VU@2x.png"
+        },
+        {
+            "name": "WF | Wallis & Futuna",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/WF@2x.png"
+        },
+        {
+            "name": "WS | Samoa",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/WS@2x.png"
+        },
+        {
+            "name": "XK | Kosovo",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/XK@2x.png"
+        },
+        {
+            "name": "YE | Yemen",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/YE@2x.png"
+        },
+        {
+            "name": "YT | Mayotte",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/YT@2x.png"
+        },
+        {
+            "name": "ZA | South Africa",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ZA@2x.png"
+        },
+        {
+            "name": "ZM | Zambia",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ZM@2x.png"
+        },
+        {
+            "name": "ZW | Zimbabwe",
+            "url": "https://github.com/AnLingzhi/FlagKit/raw/master/Assets/PNG/ZW@2x.png"
+        }
+    ]
+}
